@@ -1,0 +1,13 @@
+{
+  "name": "SimpleWebChat",
+  "version": "0.0.1",
+  "description": "A simple web chat using Node, Express, and Socket.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jermkeel/simple_chat.git"
+  },
+  "dependencies": {
+    "express": "4.x",
+    "jade": "1.x"
+  }
+}
